@@ -1,0 +1,1 @@
+# CodeAlpha_-virtual_SmartTrade
