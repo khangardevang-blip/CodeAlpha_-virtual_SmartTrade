@@ -30,7 +30,6 @@ SmartTrade is a full-stack, real-time virtual stock market simulator designed to
 
 ### Prerequisites
 *   Java Development Kit (JDK) 17 or higher
-*   Python 3.x (for serving the frontend)
 
 ### Running the Backend
 
@@ -50,19 +49,15 @@ SmartTrade is a full-stack, real-time virtual stock market simulator designed to
     ```bash
     cd frontend
     ```
-2.  Start a local development server using Python:
-    ```bash
-    python -m http.server 3000
-    ```
-3.  Open your browser and navigate to `http://localhost:3000`.
+2.  Open your browser and navigate to `http://localhost:3000`.
 
 ## Administrative Access
 
-When the backend starts with an empty database, it automatically provisions an administrative user account:
-*   **Username**: `admin`
-*   **Password**: `admin`
-
-Log in with these credentials to access the secure Admin Panel.
+ *   The Advantage: It acts as the "control room" for your entire business     logic as you grow.
+ *    Why use it: Right now, your panel allows you to delete users. In the future, you can easily expand it to include:
+      *   Financial Controls: Manually adding or deducting virtual funds from a user's account.
+      *    Market Controls: Halting trading on a specific stock or tweaking the market volatility algorithm.
+      *     Analytics: Viewing platform-wide metrics (e.g., total trades made today, most popular stocks being bought).
 
 ## Project Structure
 
