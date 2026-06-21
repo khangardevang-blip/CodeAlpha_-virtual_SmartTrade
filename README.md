@@ -57,7 +57,7 @@ SmartTrade is a full-stack, real-time virtual stock market simulator designed to
  *    Why use it: Right now, your panel allows you to delete users. In the future, you can easily expand it to include:
       *   Financial Controls: Manually adding or deducting virtual funds from a user's account.
       *    Market Controls: Halting trading on a specific stock or tweaking the market volatility algorithm.
-      *     Analytics: Viewing platform-wide metrics (e.g., total trades made today, most popular stocks being bought).
+     *     Analytics: Viewing platform-wide metrics (e.g., total trades made today, most popular stocks being bought).
 
 ## Project Structure
 
